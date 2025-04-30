@@ -3,10 +3,10 @@
 Welcome to my corner of the internet! I'm a student passionate about AI/ML. Currently, I'm a student doing B.Tech in Computer Science .
 
 ## 🔧 What I Do
-- 💻 Coding in: python, javascript
-- 🛠️ Tools & Tech: Node, Flask
+- 💻 Coding in: python, java, C, javascript
+- 🛠️ Tools & Tech: Node, Flask, Streamlit
 - 🌱 Learning: AI/ML, GenAi 
-- ✨ Hobbies: drawing, making AI models
+- ✨ Hobbies: drawing, music
 
 ## 🚀 Featured Projects
 - **Digital_physiotherapy**: Digital_physio is a cutting-edge solution designed to guide users through physiotherapy exercises with precision and ease, right in the comfort of their homes.
